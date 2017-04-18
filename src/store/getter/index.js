@@ -1,0 +1,4 @@
+export {
+    getUser
+} from './userGetter'
+
